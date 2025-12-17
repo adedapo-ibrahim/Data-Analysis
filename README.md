@@ -1,13 +1,22 @@
 Hospital Operational Crisis Analysis
+
 Author: Adedapo Ibrahim Bayo
+
 Target Audience: Dr. Sarah Obi, COO of City General Hospital
+
 Project Status: Complete
+
 📌 Project Overview
 This project involves a deep-dive operational analysis of hospital data to identify the root causes of current crises, including overcrowding, financial strain, and resource mismanagement. By analyzing a dataset of 55,500 patient records, this report moves beyond surface-level symptoms to pinpoint specific operational failures in bed allocation, staff distribution, diagnostic machinery, and clinical prescriptions.
+
 📂 Repository Structure
+
 The analysis is based on the following files:
+
 HOSPITAL OPERATIONAL CRISIS ANALYSIS.pptx: The executive presentation summarizing findings and key actions.
+
 ANALYSIS OF HODPITAL DATA.xlsx: The source data contains patient demographics, billing, and clinical details.
+
 Supporting CSV Extracts:
 Data Dictionary.csv: Definitions of dataset variables.
 Hospital Versus Patient ID.csv: Patient volume breakdown by facility.
@@ -15,12 +24,14 @@ Count of Patient ID Vs Age.csv: Demographic age distribution.
 Test Result Vs % Test.csv: Analysis of lab performance and failure rates.
 Insurance Vs Billing Amount.csv: Financial breakdown by payer.
 Medical Conditions Vs ID.csv: Cross-reference of diagnoses vs. medications prescribed.
+
 📊 Data Context
 The analysis covers 55,500 unique patient visits across multiple facilities (including Houston Methodist, Johns Hopkins, etc.). Key Variables Analyzed:
 Demographics: Age, Gender, Blood Type.
 Clinical: Medical Condition, Medication, Test Results, Admission Type.
 Operational: Doctor, Hospital, Room Number, Date of Admission/Discharge.
 Financial: Insurance Provider, Billing Amount.
+
 🔍 Key Findings & Insights
 1. Capacity Crisis (Bed Allocation Mismatch)
 Finding: There is a severe misalignment between ward capacity and patient demographics.
@@ -44,6 +55,7 @@ Impact: Indicates a severe data entry failure or a critical breakdown in automat
 Finding: The hospital's cash flow is vulnerable due to the high rate of inconclusive tests.
 Data: Medicare is the dominant payer, responsible for $707M in billing.
 Impact: With a 35% lab error rate, Medicare claims are at high risk of rejection or audit, freezing a massive portion of revenue.
+
 🚀 Recommendations
 Based on the data, the following immediate actions are proposed:
 Reallocation: Immediately convert underutilized Pediatric wings into Geriatric/Adult wards.
