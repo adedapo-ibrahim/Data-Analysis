@@ -1,0 +1,96 @@
+Supermarket Sales 2025 Strategic Analysis
+
+Target Audience: Marcus Thorne, Regional Director
+
+Analysis Period: Q1 - Q3 2025
+
+Project Status: Complete
+
+📌 Project Overview
+
+This project delivers a data-driven strategic review of supermarket performance, focusing on operational inefficiencies and customer behavior. By analyzing sales data across three major branches (New York, Chicago, Austin), the report identifies critical gaps in staffing, membership value, and marketing ROI.
+
+📂 Repository Structure
+
+The analysis relies on the following key documents and datasets:
+
+Strategic_Analysis_Report.pptx: The executive presentation detailing performance gaps and strategic recommendations.
+
+supermarket_sales_2025.csv: The primary transactional dataset containing sales, customer demographics, and product lines.
+
+Supporting Data Extracts:
+
+Staffing Mismatch.csv: Hourly transaction volume analyzed by city to determine peak traffic times.
+
+Mem Vs Norm.csv: A comparative analysis of average ticket size between Members and Normal customers.
+
+Demographics.csv: Spending breakdowns by gender across "Health & Beauty" and "Electronic Accessories".
+
+Rating Vs Spending.csv: Correlation data between customer spending tiers and satisfaction ratings.
+
+📊 Data Context
+
+The analysis covers detailed transaction records across three cities.
+Key Variables Analyzed:
+
+Operational: Branch (A, B, C), City, Date, Time.
+
+Customer: Customer Type (Member/Normal), Gender, Rating (1-10).
+
+Financial: Product Line, Unit Price, Quantity, Tax, Gross Margin, COGS.
+
+🔍 Key Findings & Insights
+
+1. The Staffing Mismatch Crisis
+
+Finding: A "Universal Schedule" is causing operational friction because peak hours vary drastically by geography.
+
+Data:
+
+Chicago: Peaks in the Morning (9:00 AM).
+
+Austin: Peaks in the Afternoon (5:00 PM).
+
+New York: Peaks in the Evening (8:00 PM).
+
+Impact: Staff are likely over-scheduled during quiet hours and under-scheduled during rushes, leading to potential burnout and lost sales.
+
+2. Membership Program Inefficiency
+
+Finding: The loyalty program adds operational cost without driving higher revenue per transaction.
+
+Data:
+
+Member Avg Ticket: ~$31,819
+
+Normal Avg Ticket: ~$31,823
+
+Impact: "Members" do not spend more than walk-in customers, suggesting the loyalty program offers no ROI.
+
+3. Marketing Spend Misalignment
+
+Finding: Current gender-segmented marketing is flawed for key categories.
+
+Data: Spending in "Health & Beauty" and "Electronics" is nearly identical between genders (~$56M split evenly).
+
+Impact: Gender-targeted ads for these categories are restricting reach unnecessarily.
+
+4. The Premium Experience Gap
+
+Finding: High-value customers are not receiving a superior experience.
+
+Data: Transactions over $80k yield the same average satisfaction rating (6.9/10) as $20k transactions.
+
+Impact: VIP customers are receiving "standard" service, creating a risk of churn among the most valuable demographic.
+
+
+🚀 Strategic Recommendations
+
+Staffing: Abandon the universal roster. Immediately implement city-specific shift patterns (Morning shift focus for Chicago, Evening for NY).
+
+Membership: Pause acquisition campaigns for the membership program. Conduct a full audit to revamp the value proposition or discontinue it to save costs.
+
+Marketing: Unify creative assets for "Health & Beauty" and "Electronics" to remove gendered messaging and focus on interest-based targeting.
+
+Customer Service: Launch a "White Glove" service pilot for transactions over $50k to ensure high spenders feel valued and rate their experience higher.
+
