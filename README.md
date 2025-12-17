@@ -4,7 +4,7 @@ Strategic Data Analyst specializing in Operational Efficiency, Fraud Detection, 
 
 👤 About Me
 
-I am a data analyst focused on solving complex business problems using data-driven insights. My work bridges the gap between raw data and executive strategy, using tools like Excel, Pivot Tables, and PowerPoint to diagnose operational crises, optimize staffing, and detect financial risks.
+I am a data analyst specializing in solving complex business problems through data-driven insights. My work bridges the gap between raw data and executive strategy, utilizing tools such as Excel, PivotTables, and PowerPoint to diagnose operational crises, optimize staffing, and identify financial risks.
 
 📂 Project Case Studies
 
@@ -14,7 +14,7 @@ Domain: Healthcare Operations | Tools: Excel, Pivot Tables
 
 The Challenge: A general hospital was facing overcrowding, financial loss, and lab failures despite high patient volume.
 
-Key Insight: Identified a 35% failure rate in lab tests (19,425 inconclusive results) causing a $707M revenue bottleneck with Medicare.
+Key Insight: Identified a 35% failure rate in lab tests (19,425 inconclusive results), causing a $707M revenue bottleneck with Medicare.
 
 Outcome: Proposed a ward reallocation strategy to fix the bed shortage (1,693 pediatric patients vs. 20,000+ geriatric patients).
 
